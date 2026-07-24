@@ -1,15 +1,16 @@
-# GENEVIEVE LISTENS™ Life Companion v4.3
+# GENEVIEVE LISTENS™ Life Companion v5
 
-## Tracey — Health Only build
+Health-only GitHub/Vercel build for Tracey.
 
-This clean deployment package contains only the GENEVIEVE LISTENS™ health and wellbeing application.
+## Included
+- Local private saving of check-ins, story, reminders and contacts
+- Personal baseline learning after five check-ins
+- Updated learning after every saved check-in
+- User-controlled report builder for Irene
+- Preview before sharing
+- Open an addressed email draft (user must review and press Send)
+- Share/download report file
+- Encrypted device-transfer and readable backup
+- PWA manifest and service worker
 
-- No Dog Park header image
-- No Dog Park application code
-- No dog, pet, park, kennel, or compatibility modules
-- No Dog Park assets in the deployment package
-- Personal greeting: Welcome, Tracey.
-- Vercel-ready static deployment
-- Service-worker cache renamed and old caches removed on activation
-
-Deploy the contents of this folder as a new Vercel project, or replace every file in the existing GitHub repository before redeploying.
+Nothing is sent automatically. No health database or clinician portal is included.
